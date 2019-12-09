@@ -1,0 +1,86 @@
+[
+  {
+    "cityId": 4802333,
+    "cityName": "Clay",
+    "id": 802,
+    "status": "Clouds",
+    "discription": "scattered clouds"
+  },
+  {
+    "cityId": 1273066,
+    "cityName": "Dewas",
+    "id": 721,
+    "status": "Haze",
+    "discription": "haze"
+  },
+  {
+    "cityId": 1268007,
+    "cityName": "Kannod",
+    "id": 803,
+    "status": "Clouds",
+    "discription": "broken clouds"
+  },
+  {
+    "cityId": 1262180,
+    "cityName": "Nagpur",
+    "id": 721,
+    "status": "Haze",
+    "discription": "haze"
+  },
+  {
+    "cityId": 1275339,
+    "cityName": "Mumbai",
+    "id": 721,
+    "status": "Haze",
+    "discription": "haze"
+  },
+  {
+    "cityId": 1270375,
+    "cityName": "Harda",
+    "id": 803,
+    "status": "Clouds",
+    "discription": "broken clouds"
+  },
+  {
+    "cityId": 1266847,
+    "cityName": "Khategaon",
+    "id": 803,
+    "status": "Clouds",
+    "discription": "broken clouds"
+  },
+  {
+    "cityId": 1275841,
+    "cityName": "Bhopal",
+    "id": 801,
+    "status": "Clouds",
+    "discription": "few clouds"
+  },
+  {
+    "cityId": 1269939,
+    "cityName": "Hoshangabad",
+    "weather_id": 803,
+    "status": "Clouds",
+    "discription": "broken clouds"
+  },
+  {
+    "cityId": 1256826,
+    "cityName": "Seoni",
+    "weather_id": 800,
+    "status": "Clear",
+    "discription": "clear sky"
+  },
+  {
+    "cityId": 1269515,
+    "cityName": "Jaipur",
+    "weather_id": 721,
+    "status": "Haze",
+    "discription": "haze"
+  },
+  {
+    "cityId": 2643743,
+    "cityName": "London",
+    "weather_id": 800,
+    "status": "Clear",
+    "discription": "clear sky"
+  }
+]
